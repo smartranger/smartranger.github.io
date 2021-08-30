@@ -22,7 +22,7 @@
 theme:
 remote_theme: kitian616/jekyll-text-theme
 text_skin: default
-highlight_theme: default
+highlight_theme: tomorrow-night-eighties
 
 title: Pichu Blog
 description: >- # this means to ignore newlines until "baseurl:"
