@@ -28,9 +28,9 @@ key: page-about
 
 ![Happy Furry](https://raw.githubusercontent.com/smartranger/smartranger.github.io/main/assets/images/about.jpeg)
 
-术业无专攻程序员，ACG爱好者
+术业无专攻程序员，ACG爱好者。
+欢迎你来到这里，也欢迎你在其他地方找到我。
 
-
-## **To-Do**
------
+----
+### **To-Do**
 - [ ] 第一篇文章
