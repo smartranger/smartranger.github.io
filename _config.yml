@@ -21,7 +21,7 @@
 # Build settings
 theme:
 remote_theme: kitian616/jekyll-text-theme
-text_skin: dark
+text_skin: default
 highlight_theme: default
 
 title: Pichu Blog
