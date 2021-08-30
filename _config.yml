@@ -35,7 +35,7 @@ lang: zh
 author:
   type      : # "person" (default), "organization"
   name      : 
-  url       :
+  url       : https://pichu.moe
   avatar    : # path or url of avatar image (square)
   bio       : I'm pichu.
   email     :
@@ -46,7 +46,7 @@ author:
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
-  douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
+  douban    : 54700258 # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : smartranger
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
