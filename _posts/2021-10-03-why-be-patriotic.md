@@ -5,8 +5,8 @@ tags: 杂谈
 
 《为什么要爱国？》  (原文发于豆瓣 2017-04-18 23:31)
 
-[陈独秀：爱国心与自觉心]
-[爱国家不等于爱朝廷]
+[陈独秀：爱国心与自觉心](https://pichu.moe/2021/10/02/chenduxiu-patriotism-and-consciousness.html)
+[爱国家不等于爱朝廷](https://pichu.moe/2021/10/01/loving-the-country-does-not-mean-loving-the-court.html)
 
 上面转载了两篇可作为参考的文章。
 
