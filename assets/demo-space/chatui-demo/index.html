@@ -13,7 +13,40 @@
     <div id="root"></div>
     <script src="//g.alicdn.com/chatui/sdk-v2/0.2.4/sdk.js"></script>
     <script src="//g.alicdn.com/chatui/extensions/0.0.7/isv-parser.js"></script>
-    <script src="/setup.js"></script>
+    <script>
+      var bot = new ChatSDK({
+        config: {
+          navbar: {
+            title: '智能助理'
+          },
+          robot: {
+            avatar: '//gw.alicdn.com/tfs/TB1U7FBiAT2gK0jSZPcXXcKkpXa-108-108.jpg'
+          },
+          messages: [
+            {
+              type: 'text',
+              content: {
+                text: '智能助理为您服务，请问有什么可以帮您？'
+              }
+            }
+          ]
+        },
+        requests: {
+          send: function (msg) {
+            if (msg.type === 'text') {
+              return {
+                url: '//api.server.com/ask',
+                data: {
+                  q: msg.content.text
+                }
+              };
+            }
+          }
+        }
+      });
+      
+      bot.run();
+    </script>
     <script src="//g.alicdn.com/chatui/icons/0.3.0/index.js" async></script>
   </body>
 </html>
